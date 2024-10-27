@@ -1,4 +1,4 @@
-# Gain📈
+# Nami📈
 
 This is an AI Financial Advisor for everyone. Our AI-powered investment app features an advanced financial advisor at its core, providing personalized guidance based on your unique profile and goals. It offers real-time market insights, tailored investment recommendations, and automated trading. The app includes interactive news analysis, educational resources, specialized AI models for complex financial situations, article research, and document analysis. This comprehensive solution delivers customized, data-driven advice for investors at all levels, addressing diverse financial needs through cutting-edge AI technology.
 
